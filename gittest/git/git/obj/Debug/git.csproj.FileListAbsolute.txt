@@ -1,0 +1,1 @@
+C:\Dev\GitFundamentals\gittest\git\git\bin\Debug\git.exe.config
